@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\RunButton\RunButton\bin\Debug\RunButton.exe.config
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\RunButton\RunButton\bin\Debug\RunButton.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\RunButton\RunButton\bin\Debug\RunButton.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\RunButton\RunButton\obj\Debug\RunButton.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\RunButton\RunButton\obj\Debug\RunButton.Form1.resources
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\RunButton\RunButton\obj\Debug\RunButton.Properties.Resources.resources
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\RunButton\RunButton\obj\Debug\RunButton.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\RunButton\RunButton\obj\Debug\RunButton.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\RunButton\RunButton\obj\Debug\RunButton.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 7\RunButton\RunButton\obj\Debug\RunButton.pdb
