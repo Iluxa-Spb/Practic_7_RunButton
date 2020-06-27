@@ -61,12 +61,17 @@ namespace RunButton
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("you win!");
+            MessageBox.Show("Хорошо! =)");
         }
 
         private void button1_MouseEnter(object sender, EventArgs e)
         {
             
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Мы так и думали! Хорошего Вам рабочего дня.");
         }
     }
 }
